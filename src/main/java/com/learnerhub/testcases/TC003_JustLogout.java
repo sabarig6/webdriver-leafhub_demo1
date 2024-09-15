@@ -1,6 +1,12 @@
 package com.learnerhub.testcases;
 
+
 public class TC003_JustLogout {
+	
+	public void  preconditions()
+	{
+		
+	}
 
 	
 	public static void main(String[] args) 
