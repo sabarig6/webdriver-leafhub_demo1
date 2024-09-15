@@ -12,11 +12,8 @@ public class TC003_JustLogout {
 
 String Demo = "text";
 
-<<<<<<< HEAD
 public void test(int number) {
 	int a=5;
 	int c = a+number;
 }
-=======
->>>>>>> branch 'main' of https://github.com/sabarig6/webdriver-leafhub_demo1.git
 }
